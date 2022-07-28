@@ -1,0 +1,61 @@
+City,Hotel Name,Address,Overall Rating,Average Review Rating,Negative,Neutral,Positive,Compound
+Singapore,The Fullerton Bay Hotel,"80 Collyer quay, Marina Bay, Singapore, Singapore, 049326",9.2,9.415254237,0.028338983,0.654559322,0.317144068,0.640263559
+Singapore,Village Hotel Bugis by Far East Hospitality (SG Clean Certified),"390 Victoria Street, Bugis, Singapore, Singapore, 188061",7.7,8.603333333,0.037991667,0.676658333,0.268658333,0.545059167
+Singapore,M Social Singapore,"90 Robertson Quay, Clarke Quay, Singapore, Singapore, 238259",8.1,7.441,0.05376,0.69985,0.22641,0.41529
+Singapore,Shangri-La's Rasa Sentosa Resort & Spa,"101 Siloso Road, Sentosa, Singapore, Singapore, 098970",8.5,8.673333333,0.024416667,0.69295,0.282641667,0.604994167
+Singapore,The Fullerton Hotel,"1 Fullerton Square, Marina Bay, Singapore, Singapore, 049178",8.9,9.176666667,0.01955,0.665941667,0.314508333,0.633098333
+Singapore,Capella Singapore Hotel,"1 The Knolls Sentosa Island, Sentosa, Singapore, Singapore, 098297",8.9,8.813333333,0.025766667,0.678208333,0.296033333,0.690216667
+Singapore,Sofitel Singapore Sentosa Resort And Spa (SG Clean Certified),"2 Bukit Manis Road, Sentosa, Singapore, Singapore, 099891",8,7.353333333,0.063216667,0.736866667,0.199875,0.327851667
+Singapore,Oasia Hotel Downtown Singapore by Far East Hospitality (SG Clean Certified),"100 Peck Seah Street, CBD, Singapore, Singapore, 079333",8.8,8.465,0.05005,0.681508333,0.268458333,0.58947
+Singapore,W Singapore - Sentosa Cove (SG Clean Certified),"21 Ocean Way, Sentosa, Singapore, Singapore, 098374",8.6,8.87,0.027291667,0.684591667,0.279816667,0.63397
+Singapore,"PARKROYAL COLLECTION Pickering, Singapore (SG Clean Certified)","3 Upper Pickering Street, CBD, Singapore, Singapore, 058289",8.9,,0.035583333,0.706141667,0.24995,0.566728333
+Singapore,Resorts World Sentosa - Beach Villas (SG Clean Certified),"8 Sentosa Gateway, Resorts World, Sentosa, Singapore, Singapore, 098269",8.4,,0.03635,0.746825,0.216825,0.600744167
+Singapore,"The Ritz-Carlton, Millenia Singapore","7 Raffles Avenue, Marina Bay, Singapore, Singapore, 039799",9,,0.025941667,0.650208333,0.323841667,0.703371667
+Singapore,Crowne Plaza Changi Airport,"75 Airport Boulevard (Terminal 3), Changi, Singapore, Singapore, 819664",8.7,8.813333333,0.045175,0.674691667,0.280125,0.645555833
+Singapore,The Westin Singapore (SG Clean Certified),"12 Marina View, Asia Square Tower 2, CBD, Singapore, Singapore, 18961",8.8,8.693333333,0.033433333,0.654308333,0.312308333,0.611549167
+Singapore,"InterContinental Singapore (SG Clean Certified, Staycation Approved)","80 Middle Road , Bugis, Singapore, Singapore, 188966",8.8,8.973333333,0.036625,0.710825,0.25255,0.594070833
+Singapore,Oakwood Premier AMTD Singapore (SG Clean Certified),"6 Shenton Way, OUE Downtown 1, CBD, Singapore, Singapore, 068809",8.9,8.926666667,0.023316667,0.685316667,0.283025,0.695501667
+Singapore,Naumi Hotel Singapore (SG Clean Certified and Staycation Approved),"41 Seah Street, City Hall, Singapore, Singapore, 188396",8.6,8.443333333,0.0449,0.676825,0.2783,0.516834167
+Singapore,Carlton Hotel Singapore - SG Clean Certified,"76 Bras Basah Road, City Hall, Singapore, Singapore, 189558",8.5,9.053333333,0.027841667,0.656491667,0.315633333,0.572236667
+Singapore,Dorsett Singapore (SG Clean Certified),"333 New Bridge Road, Chinatown, Singapore, Singapore, 088765",8.3,8.43,0.035125,0.68495,0.229908333,0.469216667
+Singapore,Hotel Fort Canning,"11 Canning Walk, Orchard, Singapore, Singapore, 178881",8.6,8.723333333,0.02605,0.674366667,0.29125,0.686205833
+Bangkok,Millennium Hilton Bangkok,"123 Charoennakorn Road, Klongsan, Bangkok Riverside, Bangkok, Thailand, 10600",8.4,8.383333333,0.041991667,0.665091667,0.284583333,0.465239167
+Bangkok,Mandarin Oriental Bangkok,"48 Oriental Avenue, Bangkok Riverside, Bangkok, Thailand, 10500",9.2,9.23490566,0.021735849,0.645358491,0.332896226,0.647264151
+Bangkok,Ibis Bangkok Siam Hotel,"Rama 1 Wangmai, Siam, Bangkok, Thailand, 10330",8.2,8.443333333,0.022233333,0.743608333,0.234141667,0.507089167
+Bangkok,Sofitel Bangkok Sukhumvit Hotel,"189 Sukhumvit Road Soi 13-15 , Klongtoey Wattana, Sukhumvit, Bangkok, Thailand, 10110",8.9,9.263333333,0.03745,0.640716667,0.321841667,0.6084175
+Bangkok,Evergreen Place Siam by UHG,"318 Phaya Thai Road, Ratchathewi, Siam, Bangkok, Thailand, 10400",8.4,8.963333333,0.02005,0.572225,0.391075,0.507030833
+Bangkok,Swissotel Bangkok Ratchada,"204 Ratchadapisek Road Huaykwang, Ratchada, Bangkok, Thailand, 10320",8.4,8.793333333,0.027908333,0.643391667,0.312033333,0.550208333
+Bangkok,Centara Grand at Central Plaza Ladprao Bangkok,"1695 Phaholyothin Road, Chatuchak, Bangkok, Thailand, 10900",8.5,8.693333333,0.0213,0.6189,0.359825,0.534349167
+Bangkok,Hotel Nikko Bangkok,"27 Soi Sukhumvit 55 (Thonglor), Sukhumvit Road, Klongton Nua, Wattana, Bangkok Thailand 10110, Sukhumvit, Bangkok, Thailand, 10110",8.9,8.686666667,0.028608333,0.6728,0.2986,0.541548333
+Bangkok,Grand Swiss Sukhumvit 11,"155/23 Sukhumvit Soi 11 Near Nana BTS sky train, Sukhumvit, Bangkok, Thailand, 10110",8,8.07,0.044858333,0.678708333,0.2764,0.464710833
+Bangkok,The Peninsula Bangkok,"Siam Chaophraya Holdings, 333 Charoennakorn Road, Bangkok Riverside, Bangkok, Thailand, 10600",9.1,9.02,0.03415,0.661875,0.303983333,0.577965833
+Bangkok,Amari Watergate Hotel - SHA Certified,"847 Petchaburi Road, Pratunam, Rachatavi, Pratunam, Bangkok, Thailand, 10400",8.6,8.833333333,0.02845,0.657333333,0.305941667,0.544961667
+Bangkok,The Bless Hotel & Residence,"10 Sukhumvit Soi 33, North Klongton, Wattana, Sukhumvit, Bangkok, Thailand, 10110",8.2,8.893333333,0.027641667,0.631566667,0.340808333,0.62743
+Bangkok,Ramada Plaza Bangkok Menam Riverside,"2074 Charoenkrung Road Soi 72/4, Wat Praya Krai, Bangkholaem, Bangkok Riverside, Bangkok, Thailand, 10120",8.2,8.75,0.035833333,0.664091667,0.300091667,0.674093333
+Bangkok,sala rattanakosin Bangkok,"39 Maharat Road, Grand Palace, Phranakorn, Bangkok Riverside, Bangkok, Thailand, 10200",8.1,8.152136752,0.040905983,0.649905983,0.300632479,0.576480342
+Bangkok,The Royal River Hotel,"219 Soi Charansanitwong 66/1, Charansanitwong Road, Bangplad, Bangkok Riverside, Bangkok, Thailand, 10700",7.6,7.372881356,0.074271186,0.694805085,0.214,0.363319492
+Bangkok,Hansar Bangkok Hotel,"3/250 Soi Mahatlek Luang 2, Lumphini, Pathum Wan District, Bangkok 10330, Siam, Bangkok, Thailand, 10330",8.8,8.783333333,0.037266667,0.646608333,0.316125,0.5916825
+Bangkok,lebua at State Tower,"State Tower 1055/11 Silom Road, Bangkok Riverside, Bangkok, Thailand, 10500",8.7,8.586666667,0.028666667,0.690583333,0.280783333,0.550533333
+Bangkok,Kokotel Bangkok Surawong,"181/1-5 Surawong Road, Suriyawong, Bangrak, Silom, Bangkok, Thailand, 10500",8.6,8.89,0.022825,0.61275,0.356083333,0.548526667
+Bangkok,Chatrium Hotel Riverside Bangkok,"28 Charoenkrung Road Soi 70, Bangkholame , Bangkok Riverside, Bangkok, Thailand, 10120",8.8,9.206666667,0.028566667,0.637675,0.333725,0.6754225
+Bangkok,SKYVIEW Hotel Bangkok,"12 Sukhumvit Soi 24 Klongton, Klongtoey near BTS Prompong, Sukhumvit, Bangkok, Thailand, 10110",8.7,8.746666667,0.0295,0.696091667,0.274391667,0.532605
+Kuala Lumpur,DeFace Platinum Suites,"THE PLATINUM SUITES ,1020 Jalan Sultan Ismail, 50250 Kuala Lumpur, KLCC, Kuala Lumpur, Malaysia, 50250",8.4,7.88,0.0517,0.684458333,0.247191667,0.346030833
+Kuala Lumpur,Melia Kuala Lumpur,"16, Jalan Imbi, Bukit Bintang, Kuala Lumpur, Malaysia, 55100",8.1,8.56,0.055241667,0.657941667,0.286875,0.266270833
+Kuala Lumpur,Silka Cheras Hotel Kuala Lumpur,"KM10, Jalan Cheras, Cheras, Kuala Lumpur, Malaysia, 56000",7.5,7.336666667,0.060158333,0.646175,0.277025,0.2588925
+Kuala Lumpur,DoubleTree by Hilton Hotel Kuala Lumpur,"The Intermark, 348 Jalan Tun Razak, KLCC, Kuala Lumpur, Malaysia, 50400",8.5,8.953333333,0.032908333,0.585616667,0.381483333,0.4904625
+Kuala Lumpur,Pacific Regency Hotel Suites,"KH Tower, Jalan Punchak, Off Jalan P. Ramlee (Opposite KL Tower), KLCC, Kuala Lumpur, Malaysia, 50250",7.8,7.83,0.0605,0.681166667,0.258316667,0.217938333
+Kuala Lumpur,D'Majestic Place by Widebed,"Pudu, Kuala Lumpur, Malaysia",7.8,7.26,0.067233333,0.693391667,0.239358333,0.32708
+Kuala Lumpur,The Saujana Hotel Kuala Lumpur,"Jalan Lapangan Terbang SAAS, Subang Jaya, Kuala Lumpur, Malaysia, 40150",7.9,8.443333333,0.039041667,0.596166667,0.356491667,0.49939
+Kuala Lumpur,Sunway Putra Hotel Kuala Lumpur,"100 Jalan Putra, Chowkit / Putra WTC, Kuala Lumpur, Malaysia, 50350",8.5,9.276666667,0.023358333,0.577925,0.390383333,0.51575
+Kuala Lumpur,The Best KLCC View @ Regalia Residences,"Block C (milan) Lobby, Regalia Residence, No. 2, Jalan Anjung Putra, Off Jalan Sultan Ismail, Chowkit / Putra WTC, Kuala Lumpur, Malaysia, 50350",8.2,8.353333333,0.077183333,0.62085,0.301991667,0.198236667
+Kuala Lumpur,Hilton Garden Inn Kuala Lumpur - South,"No. 452 Jalan Tuanku Abdul Rahman, Chowkit / Putra WTC, Kuala Lumpur, Malaysia, 50100",8.3,8.47,0.061408333,0.596741667,0.316825,0.325333333
+Kuala Lumpur,Dorsett Kuala Lumpur,"172, Jalan Imbi,, Bukit Bintang, Kuala Lumpur, Malaysia, 55100",8.1,7.58,0.079075,0.717858333,0.203083333,0.117839167
+Kuala Lumpur,Arte Plus by Afflexia Serviced Suites KLCC,"G-02, Ground Floor, Arte Plus @ Jalan Ampang No 3, Lorong Ampang 1,, KLCC, Kuala Lumpur, Malaysia, 55000",7.1,6.59,0.0948,0.664683333,0.240508333,0.11464
+Kuala Lumpur,Grand Hyatt Kuala Lumpur Hotel,"12 Jalan Pinang, KLCC, Kuala Lumpur, Malaysia, 50450",9.1,9.42,0.021216667,0.606591667,0.372183333,0.6404525
+Kuala Lumpur,"Hotel Stripes Kuala Lumpur, Autograph Collection","25 Jalan Kamunting, Golden Triangle, Kuala Lumpur, Malaysia, 50300",9,8.8,0.025291667,0.658191667,0.316533333,0.590980833
+Kuala Lumpur,Avani Sepang Goldcoast Resort,"No 67 Jalan Pantai Bagan Lalang, Kg Bagan Lalang, Sepang / KLIA, Kuala Lumpur, Malaysia, 43950",7.5,8.133333333,0.04215,0.667641667,0.290183333,0.39193
+Kuala Lumpur,Sunway Velocity Hotel Kuala Lumpur,"Lingkaran SV, Sunway Velocity, Cheras, Pudu, Kuala Lumpur, Malaysia, 55100",8.6,9.17,0.01755,0.549325,0.4206,0.42402125
+Kuala Lumpur,Traders Hotel Kuala Lumpur,"Kuala Lumpur City Centre, KLCC, Kuala Lumpur, Malaysia, 50088",8.9,9.396666667,0.013458333,0.612391667,0.37415,0.665000833
+Kuala Lumpur,Hilton Kuala Lumpur,"3 Jalan Stesen Sentral, KL Sentral, Kuala Lumpur, Malaysia, 50470",8.9,9.34,0.029108333,0.616325,0.321283333,0.565163333
+Kuala Lumpur,Corus Hotel,"Jalan Ampang, KLCC, Kuala Lumpur, Malaysia, 50450",8,8.916666667,0.030975,0.609166667,0.343208333,0.388981667
+Kuala Lumpur,The Robertson Kuala Lumpur,"The Robertson, No 2, Jalan Robertson, Bukit Bintang, Kuala Lumpur, Malaysia, 50150",8.6,8.603333333,0.044333333,0.643333333,0.303983333,0.469614167
